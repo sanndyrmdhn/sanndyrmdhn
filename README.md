@@ -5,8 +5,7 @@
 - [My Linktree](sanndyxzz.github.io)
 - [instagram](https://www.instagram.com/sanndyxz/)
 
-<h3 align="left">Im Study in</h3>
+<h3 align="left">Im Study in <a href="smpn13malang.sch.id">SMPN 13 MALANG</a></h3>
 
-- [SMPN 13 MALANG](smpn13malang.sch.id)
 
 <hp align="left">Programming Languages That I'm Still Mastering is HTML,CSS,JavaScript, And Python</p>
