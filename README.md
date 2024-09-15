@@ -7,6 +7,6 @@
 
 <h3 align="left">Im Study in</h3>
 
-<hp align="left">Programming Languages That I'm Still Mastering is HTML,CSS,JavaScript, And Python</p
-
 - [SMPN 13 MALANG](smpn13malang.sch.id)
+
+<hp align="left">Programming Languages That I'm Still Mastering is HTML,CSS,JavaScript, And Python</p>
