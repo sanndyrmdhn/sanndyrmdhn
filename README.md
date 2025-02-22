@@ -5,4 +5,4 @@
 
 - [My Blogger](https://tentangsoftwareandroid.blogspot.com/)
 
-<h3 align="left">I'm always making stupid projects</h3>
+<h3 align="left">I'm always making stupid repository</h3>
