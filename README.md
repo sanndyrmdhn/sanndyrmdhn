@@ -21,5 +21,5 @@
 ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)
 
 ### More from me
-- 🌏 [Blogger](tentangsoftwareandroid.blogspot.com)
-- 💾 [Channel Telegram](t.me/sannopensource)
+- 🌏 [Blogger](https://tentangsoftwareandroid.blogspot.com)
+- 💾 [Channel Telegram](https://t.me/sannopensource)
