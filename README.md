@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 - 🏫 Student at **SMP NEGERI 13 MALANG**
-- 📚 Still learning about **HTML, CSS, Javascript, Python and Shell**
+- 📚 Still learning about **HTML, CSS, Javascript, Shell or Bash and Python**
 - 🔧 Currently working in **Vulkan Optimizer**
 - 💡 Passionate about **Android Development**
 
@@ -10,6 +10,9 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
 
+### 💻 Device
+- Redmi 10 5G 6/128 HyperOS 1.0.3.0 ULSIDXM **( Stock ROM and ROOTED )**
+- Dell Inspiron N5040 8/256 Windows 10 Ghost Specter and LUbuntu **( Dual Boot )**
 ### 🔧 Tools
 ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)
 
