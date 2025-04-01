@@ -15,8 +15,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 
 ### 💻 Device
-- Redmi 10 5G 6/128 HyperOS 1.0.3.0 ULSIDXM **( Stock ROM and ROOTED )**
-- Dell Inspiron N5040 8/256 Windows 10 Ghost spectre and LUbuntu **( Dual Boot )**
+- Redmi 10 5G 6/128 MediaTek Dimensity 700 HyperOS 1.0.3.0 ULSIDXM **( Stock ROM and ROOTED )**
+- Dell Inspiron N5040 8/256 Intel Core i3 2310M Windows 10 Ghost spectre and LUbuntu **( Dual Boot )**
 ### 🔧 Tools
 ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)
 
