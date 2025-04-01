@@ -1,9 +1,18 @@
-<h1 align="center">Hi there 👋, I'm Sandy</h1>
-<h3 align="center">A Beginner Programmer </h3>
+# Hi there! I'm Sandi Tri Ramadhan 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanndyrmdhn&label=Profile%20views&color=0e75b6&style=flat" alt="sanndyrmdhn" /> </p>
+### 👨‍💻 About Me
+- 🏫 Student at **SMP NEGERI 13 MALANG**
+- 📚 Still learning about **HTML, CSS, Javascript, Python and Shell**
+- 🔧 Currently working in **Vulkan Optimizer**
+- 💡 Passionate about **Android Development**
 
-- [My Blogger](https://tentangsoftwareandroid.blogspot.com/)
-- [Telegram Channel](https://t.me/sannopensource)
+### ⚙️ Tech Stack
+![Android]
+![Shell]
 
-<h3 align="left">I'm always making stupid repository</h3>
+### 🔧 Tools
+![Visual Code]
+
+### More from me
+- 🌏 [Blogger](tentangsoftwareandroid.blogspot.com)
+- 💾 [Channel Telegram](t.me/sannopensource)
