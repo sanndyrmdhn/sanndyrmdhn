@@ -9,6 +9,7 @@
 ### ⚙️ Tech Stack
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 
 ### 💻 Device
 - Redmi 10 5G 6/128 MediaTek Dimensity 700 HyperOS 1.0.3.0 ULSIDXM **( Stock ROM and ROOTED )**
