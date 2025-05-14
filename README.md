@@ -13,7 +13,7 @@
 
 ### 💻 Device
 - Redmi 10 5G 6/128 MediaTek Dimensity 700 HyperOS 1.0.3.0 ULSIDXM **( ROOTED )**
-- Dell Inspiron N5040 8/256 Intel Core i3 2310M [Lubuntu 24.04.2 LTS](https://lubuntu.me/)
+- Dell Inspiron N5040 8/256 Intel Core i3 2310M [Lubuntu](https://lubuntu.me/) Version [24.04.2 LTS](https://cdimage.ubuntu.com/lubuntu/releases/noble/release/)
 
 ### 🔧 Tools
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com)
