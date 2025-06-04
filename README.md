@@ -19,9 +19,9 @@
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com)
 
 ### 🚀 Projects & Contributions
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TypeFlu&show_icons=true&theme=dracula&hide_border=true)](https://github.com/sanndyrmdhn)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanndyrmdhn&show_icons=true&theme=dracula&hide_border=true)](https://github.com/sanndyrmdhn)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TypeFlu&layout=compact&theme=dracula&hide_border=true)](https://github.com/sanndyrmdhn)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanndyrmdhn&layout=compact&theme=dracula&hide_border=true)](https://github.com/sanndyrmdhn)
 
 ### More from me
 - 🌏 [Blogger](https://tentangsoftwareandroid.blogspot.com)
