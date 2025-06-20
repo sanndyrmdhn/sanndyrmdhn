@@ -1,7 +1,8 @@
 # Hi there! I'm Sandi Tri Ramadhan 
 
 ### 👨‍💻 About Me
-- 🏫 Student at **SMP NEGERI 13 MALANG**
+- 🏫 Student at **SMPN 13 MALANG**
+- 🎓 Majoring In **Computer and Network Technology**
 - 📚 Still learning about **Bash and Python**
 - 🔧 Currently making **Module Magisk**
 - 💡 Passionate about **Android Development**
