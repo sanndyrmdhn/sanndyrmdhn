@@ -3,7 +3,7 @@
 ### 👨‍💻 About Me
 - 🏫 Student at **SMP NEGERI 13 MALANG**
 - 📚 Still learning about **Bash and Python**
-- 🔧 Currently working in **Module Magisk**
+- 🔧 Currently making **Module Magisk**
 - 💡 Passionate about **Android Development**
 
 ### ⚙️ Tech Stack
