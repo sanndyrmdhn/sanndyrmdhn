@@ -1,14 +1,13 @@
 # Hi there! I'm Sandi Tri Ramadhan 
 
 ### 👨‍💻 About Me
-- 🏫 Student at **SMPN 13 MALANG**
+- 🏫 Student at **SMKN 3 MALANG**
 - 🎓 Majoring In **Computer and Network Technology**
 - 📚 Still learning about **Bash and Python**
 - 🔧 Currently making **Module Magisk**
 - 💡 Passionate about **Android Development**
 
 ### ⚙️ Tech Stack
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)](https://www.gnu.org/software/bash)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)](https://www.python.org)
 
