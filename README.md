@@ -8,23 +8,25 @@
 - 💡 Passionate about **Android Development**
 
 ### ⚙️ Tech Stack
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)](https://www.gnu.org/software/bash)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)](https://www.python.org)
-
-### 💻 Device
-- Redmi 10 5G 6/128 MediaTek Dimensity 700 HyperOS 1.0.3.0 ULSIDXM **( ROOTED )**
-- Advan Workplus 1701 16/512 AMD Ryzen 5 6600H Windows 11 **( Main )**
-- Dell Inspiron N5040 8/256 Intel Core i3 2310M [Lubuntu](https://lubuntu.me/) Version [24.04.2 LTS](https://cdimage.ubuntu.com/lubuntu/releases/noble/release/) **( Sec )**
+<p align="left"> 
+    <a href="https://developer.android.com/" target="_blank"> <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"> </a>
+    <a href="https://www.python.org" target="_blank"> <img height="40" src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+    <a href="https://www.gnu.org/software/bash" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bash.png"/> </a>
+</p>
 
 ### 🔧 Tools
-[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com)
+<p align="left"> 
+    <a href="https://visualstudio.microsoft.com" target="_blank"> <img height="48" src="https://img.icons8.com/?size=50&id=0OQR1FYCuA9f&format=png&color=000000"> </a>
+</p>
 
 ### 🚀 Projects & Contributions
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanndyrmdhn&show_icons=true&theme=dracula&hide_border=true)](https://github.com/sanndyrmdhn)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanndyrmdhn&layout=compact&theme=dracula&hide_border=true)](https://github.com/sanndyrmdhn)
+<a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" width="38%" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sanndyrmdhn&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img width="36%" alt="S[in]S's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanndyrmdhn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img width="25%" alt="S[in]S's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanndyrmdhn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 ### More from me
-- 🌏 [Blogger](https://tentangsoftwareandroid.blogspot.com)
-- 💾 [Channel Telegram](https://t.me/sannopensource)
-- 🖥️ [Portofolio](https://sanndyrmdhn.netlify.app/)
+<p align="left">
+  <a href = "https://discordapp.com/users/567858176352059402"><img title="@sanndyrmdhn_" src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
+<a href = "https://t.me/sanndyrmdhn"><img title="@sanndyrmdhn" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/></a>
+<a href = "https://www.instagram.com/sanndyrmdhn_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>
