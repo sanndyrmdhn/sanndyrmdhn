@@ -19,7 +19,7 @@
     <a href="https://visualstudio.microsoft.com" target="_blank"> <img height="48" src="https://img.icons8.com/?size=50&id=0OQR1FYCuA9f&format=png&color=000000"> </a>
 </p>
 
-### 🚀 Projects & Contributions
+### 🚀 Github Stats
 <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" width="38%" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sanndyrmdhn&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
 <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img width="36%" alt="S[in]S's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanndyrmdhn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img width="25%" alt="S[in]S's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanndyrmdhn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
