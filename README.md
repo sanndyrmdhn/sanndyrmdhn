@@ -16,7 +16,7 @@
 
 ### 🔧 Tools
 <p align="left"> 
-    <a href="https://visualstudio.microsoft.com" target="_blank"> <img height="48" src="https://img.icons8.com/?size=50&id=0OQR1FYCuA9f&format=png&color=000000"> </a>
+    <a href="https://code.visualstudio.com" target="_blank"> <img height="48" src="https://img.icons8.com/?size=50&id=0OQR1FYCuA9f&format=png&color=000000"> </a>
 </p>
 
 ### 🚀 Github Stats
