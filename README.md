@@ -3,14 +3,13 @@
 ### 👨‍💻 About Me
 - 🏫 Student at **SMKN 3 MALANG**
 - 🎓 Majoring In **Computer and Network Technology**
-- 📚 Still learning about **Bash and Python**
+- 📚 Still learning about **Shell**
 - 🔧 Currently making **Module Magisk**
-- 💡 Passionate about **Android Development**
+- 💡 Passionate about **Linux Development**
 
 ### ⚙️ Tech Stack
 <p align="left"> 
     <a href="https://developer.android.com/" target="_blank"> <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"> </a>
-    <a href="https://www.python.org" target="_blank"> <img height="40" src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://www.gnu.org/software/bash" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bash.png"/> </a>
 </p>
 
@@ -18,10 +17,6 @@
 <p align="left"> 
     <a href="https://code.visualstudio.com" target="_blank"> <img height="48" src="https://img.icons8.com/?size=50&id=0OQR1FYCuA9f&format=png&color=000000"> </a>
 </p>
-
-### 🚀 Github Stats
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img width="36%" alt="S[in]S's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanndyrmdhn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img width="25%" alt="S[in]S's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanndyrmdhn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 ### More from me
 <p align="left">
