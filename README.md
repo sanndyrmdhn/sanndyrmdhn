@@ -9,7 +9,7 @@
 
 ### ⚙️ Tech Stack
 <p align="left"> 
-    <a href="https://developer.android.com/" target="_blank"> <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"> </a>
+    <a href="https://developer.android.com/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/fluency/48/android-os.png" alt="android-os"/> </a>
     <a href="https://www.gnu.org/software/bash" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bash.png"/> </a>
 </p>
 
