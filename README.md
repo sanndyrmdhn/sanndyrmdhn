@@ -3,7 +3,6 @@
 ### 👨‍💻 About Me
 - 🏫 Student at **SMKN 3 MALANG**
 - 🎓 Majoring In **Computer and Network Technology**
-- 📚 Still learning about **Shell**
 - 🔧 Currently making **Module Magisk**
 - 💡 Passionate about **Linux Development**
 
